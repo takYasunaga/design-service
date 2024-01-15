@@ -4,5 +4,6 @@
 
 #layout: page
 title: home
+heading: Welcome!
 ---
 test test
